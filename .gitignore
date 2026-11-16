@@ -1,0 +1,17 @@
+*.o
+*.a
+*.so
+*.out
+*.exe
+a.out
+
+nr_monitor*
+log_parser*
+log_analyzer*
+
+perf.data*
+vgcore.*
+
+measurements_big.txt
+
+.vscode/
